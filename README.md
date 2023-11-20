@@ -1,4 +1,4 @@
 # Machine-Learning
-Semester 2 Concepts
+Concepts
 
 1.PCA
